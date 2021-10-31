@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.20)  31 OCT 2021 21:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.20)  31 OCT 2021 22:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -609,24 +609,24 @@ LaTeX Warning: Citation 'investopediaMACD' on page 11 undefined on input line 6
 LaTeX Warning: Citation 'wikipediaMACDDeutsch' on page 11 undefined on input li
 ne 63.
 
-[11] [12] [13] [14]
+[11] [12]
 
-LaTeX Warning: Empty bibliography on input line 98.
-
-
-Package biblatex Warning: Keyword 'picture' not found on input line 99.
+LaTeX Warning: Empty bibliography on input line 77.
 
 
-LaTeX Warning: Empty bibliography on input line 99.
+Package biblatex Warning: Keyword 'picture' not found on input line 78.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
-[15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
+
+LaTeX Warning: Empty bibliography on input line 78.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
+[13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
  (./plan.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `plan.out' has not changed.
-(rerunfilecheck)             Checksum: B4ACED8B727F79C4A38B7DEBE85ABAD7;1787.
+(rerunfilecheck)             Checksum: E3145AC1DDCD62D4E95445F2C4B784EB;1074.
 
 
 LaTeX Warning: There were undefined references.
@@ -639,13 +639,13 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'plan.run.xml'.
 \openout1 = `plan.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 12928 strings out of 483130
- 225866 string characters out of 5963882
- 901122 words of memory out of 5000000
- 27755 multiletter control sequences out of 15000+600000
+ 12904 strings out of 483130
+ 225469 string characters out of 5963882
+ 901113 words of memory out of 5000000
+ 27745 multiletter control sequences out of 15000+600000
  537806 words of font info for 42 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  36i,8n,39p,3442b,2193s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -655,10 +655,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on plan.pdf (15 pages, 119899 bytes).
+Output written on plan.pdf (13 pages, 112670 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
