@@ -22,8 +22,8 @@
   url   = {https://www.plus500.de/Instruments/BTCUSD/The-History-of-Bitcoin~3},
 }
 
-@Misc{,
-  author = {Bxalber und weitere},
+@Misc{Bxalber,
+  author = {Bxalber, Tigi98, Sandstorm de und weitere},
   note   = {abgerufen am 30.10.2021},
   title  = {Liste von Kryptowährungen},
   url    = {https://de.wikipedia.org/wiki/Liste_von_Kryptowährungen},
@@ -66,6 +66,29 @@
   note  = {abgerufen am 30.09.2021},
   title = {Was ist ein Trend?},
   url   = {https://www.att-trading.com/trading-wiki/was-ist-ein-trend/},
+}
+
+@Misc{OxfordLanguageIndicator,
+  note  = {abgerufen am 10.10.2021},
+  title = {OxfordLanguageIndicator},
+  url   = {https://www.oxfordlearnersdictionaries.com/definition/american_english/indicator},
+}
+
+@Article{investopediaMACD,
+  author  = {Jason Fernando},
+  journal = {Investopedia},
+  title   = {Moving Average Convergence Divergence (MACD)},
+  year    = {2021},
+  note    = {abgerufen am 30.09.2021},
+  url     = {https://www.investopedia.com/terms/m/macd.asp},
+}
+
+@Misc{wikipediaMACDDeutsch,
+  author = {Plankton314},
+  note   = {abgerufen am 30.09.2021},
+  title  = {MACD},
+  year   = {2021},
+  url    = {https://de.wikipedia.org/wiki/MACD},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
