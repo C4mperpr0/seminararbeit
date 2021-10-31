@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.13)  31 OCT 2021 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.13)  31 OCT 2021 23:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,23 +456,23 @@ File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 ) (./plan.aux)
 \openout1 = `plan.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-Package hyperref Info: Link coloring OFF on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+Package hyperref Info: Link coloring OFF on input line 22.
 
 (d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -486,9 +486,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count392
 )
-LaTeX Info: Redefining \ref on input line 19.
-LaTeX Info: Redefining \pageref on input line 19.
-LaTeX Info: Redefining \nameref on input line 19.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
  (./plan.out) (./plan.out)
 \@outlinefile=\write4
 \openout4 = `plan.out'.
@@ -565,12 +565,12 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'plan.bbl' found.
  (./plan.bbl)
-Package biblatex Info: Reference section=0 on input line 19.
-Package biblatex Info: Reference segment=0 on input line 19.
+Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference segment=0 on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 26.
+(Font)              <14.4> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
+(Font)              <7> on input line 29.
  [1
 
 
@@ -588,81 +588,104 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 36.
+(Font)              <5> on input line 39.
  [3] [4]
-Overfull \hbox (0.41402pt too wide) in paragraph at lines 44--45
+Overfull \hbox (0.41402pt too wide) in paragraph at lines 47--48
 \OT1/cmr/m/n/12 wirt-schaf-ten. Bit-coins Bei-spiel sind bis heu-te Tau-sen-de 
 von neu-en W[]ahrungen
  []
 
 
-Overfull \hbox (2.83342pt too wide) in paragraph at lines 44--45
+Overfull \hbox (2.83342pt too wide) in paragraph at lines 47--48
 \OT1/cmr/m/n/12 ge-folgt und die Zahl steigt ste-tig wei-ter. So ha-ben un-ter-
 schied-li-che W[]ahrungen
  []
 
 
-Overfull \hbox (6.61118pt too wide) in paragraph at lines 44--45
+Overfull \hbox (6.61118pt too wide) in paragraph at lines 47--48
 \OT1/cmr/m/n/12 Shi-ba Inu, dem Fi-nan-zie-ren ge-meinn[]utziger Pro-jek-te, ei
 n-fa-cher []Uberweisungen
  []
 
 [5]
-Overfull \hbox (36.47754pt too wide) in paragraph at lines 46--48
+Overfull \hbox (36.47754pt too wide) in paragraph at lines 49--51
 \OT1/cmr/m/n/12 Jeder kennt Fiatw[]ahrungen, viel-leicht nur nicht un-ter die-s
 em Na-men. Fiatw[]ahrungen
  []
 
 
-Overfull \hbox (21.14157pt too wide) in paragraph at lines 46--48
+Overfull \hbox (21.14157pt too wide) in paragraph at lines 49--51
 \OT1/cmr/m/n/12 zen-tra-li-sier-te, von Ban-ken oder Staat kon-trol-lier-te W[]
 ahrungen. Cryp-tow[]ahrungen
  []
 
-[6] [7] [8] [9] [10] [11] [12] [13] [14]
-Overfull \hbox (6.8412pt too wide) in paragraph at lines 81--81
+[6] [7] [8] [9] [10]
+<./images//macd.png, id=142, 462.528pt x 346.896pt>
+File: ./images//macd.png Graphic file (type png)
+<use ./images//macd.png>
+Package pdftex.def Info: ./images//macd.png  used on input line 66.
+(pdftex.def)             Requested size: 390.0pt x 292.5128pt.
+ [11] [12 <./images//macd.png>]
+<./images//macd_resulte_btc.png, id=158, 462.528pt x 346.896pt>
+File: ./images//macd_resulte_btc.png Graphic file (type png)
+<use ./images//macd_resulte_btc.png>
+Package pdftex.def Info: ./images//macd_resulte_btc.png  used on input line 79.
+
+(pdftex.def)             Requested size: 390.0pt x 292.5128pt.
+ [13] [14 <./images//macd_resulte_btc.png>] [15] [16]
+Overfull \hbox (6.8412pt too wide) in paragraph at lines 93--93
 \OT1/cmr/m/n/12 ab-ge-ru-fen am 30.09.2021. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12
  : []$\OT1/cmtt/m/n/12 https : / / wirtschaftslexikon . gabler .
  []
 
 
-Overfull \hbox (2.9415pt too wide) in paragraph at lines 81--81
+Overfull \hbox (2.9415pt too wide) in paragraph at lines 93--93
 \OT1/cmtt/m/n/12 www . plus500 . de / Instruments / BTCUSD / The -[] History -[
 ] of -[] Bitcoin[]3$[]\OT1/cmr/m/n/12 . 
  []
 
 
-Overfull \hbox (34.48598pt too wide) in paragraph at lines 81--81
+Overfull \hbox (34.48598pt too wide) in paragraph at lines 93--93
 []\OT1/cmr/m/it/12 The Car-da-no Crowd. \OT1/cmr/m/n/12 ab-ge-ru-fen am 29.10.2
 021. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/m/n/12 https : / / card
 anocrowd .
  []
 
-[15]
-Overfull \hbox (3.23079pt too wide) in paragraph at lines 81--81
+[17]
+Overfull \hbox (3.23079pt too wide) in paragraph at lines 93--93
 []\OT1/cmr/m/it/12 Was ist Blockchain-Technologie? \OT1/cmr/m/n/12 ab-ge-ru-fen
  am 01.10.2021. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/m/n/12 https
  :
  []
 
 
-Package biblatex Warning: Keyword 'picture' not found on input line 82.
+Package biblatex Warning: Keyword 'picture' not found on input line 94.
 
 
-LaTeX Warning: Empty bibliography on input line 82.
+LaTeX Warning: Empty bibliography on input line 94.
 
-[16] [17] (./plan.aux)
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 98--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--104
+
+ []
+
+[19] (./plan.aux)
 Package rerunfilecheck Info: File `plan.out' has not changed.
-(rerunfilecheck)             Checksum: 1A51A16ACD380AB46426EC05EEF65DAB;1102.
+(rerunfilecheck)             Checksum: 45EE2BC6DD8D6E3EAB3BF867BA30D0F9;1014.
 Package logreq Info: Writing requests to 'plan.run.xml'.
 \openout1 = `plan.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13385 strings out of 479304
- 240330 string characters out of 5862309
- 1001240 words of memory out of 5000000
- 30358 multiletter control sequences out of 15000+600000
+ 13404 strings out of 479304
+ 240682 string characters out of 5862309
+ 1001352 words of memory out of 5000000
+ 30370 multiletter control sequences out of 15000+600000
  409715 words of font info for 48 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  71i,8n,74p,3442b,2241s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -676,10 +699,10 @@ ist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/Programme/TexLive/texlive/2020
 ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Programme/TexLiv
 e/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program
 me/TexLive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on plan.pdf (17 pages, 153803 bytes).
+Output written on plan.pdf (19 pages, 222876 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 242 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

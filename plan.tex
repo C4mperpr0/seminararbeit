@@ -16,6 +16,9 @@
 }
 \addbibresource{sources.bib}
 
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
 \begin{document}
 
 \begin{titlepage}	
@@ -59,17 +62,26 @@
 	\subsubsection{Trend}
 		\glqq Ein Trend ist im Sinne der Preisbildung an der Börse eine außerordentliche Entwicklung der Bewertung eines Wertpapiers im Zeitablauf in eine bestimmte Richtung\grqq{}. (\cite{WhatIsATrend}) Da Trading mit Cryptowährungen in diesem Aspekt etwa gleich abläuft, lässt sich das Konzept des Trends auch hier verwenden. Trends werden im Allgemeinen in Aufwärtstrends, Abwärtstrends und Seitwärtstrends unterteilt. Diese unterteilen sich jeweils in verschiedene Trendphasen, in denen sich der Kurs abwechselnd mit und gegen den Trend bewegt. Man spricht von Bewegung und Korrektur, vergleichbar mit einem kleineren Trend im Trend beziehungsweise einem untergeordneten Trend. Es wird versucht, in vielen Bewegungen und Korrekturen eine allgemeine Richtung zu erkennen. Da sie jedoch nicht durch feste Schwellenwerte in Größe, Zeitraum oder Volumen definiert ist, kann die Trendanalyse verschieden interpretiert und angewendet werden. Beispielsweise kann ein Kurs innerhalb eines Tages sinken, also einen Abwärtstrend aufweisen, aber gleichzeitig bei der Betrachtung eines ganzen Monats einem klaren Aufwärtstrend zugeordnet werden. Ob dies nun nur eine neue Trendphase oder gar der Wechsel zu einem neuen Langzeittrend ist, kann dann unterschiedlich interpretiert werden.
 	\subsubsection{Indikatoren: der MACD}
+		\begin{figure}
+			\includegraphics[width=\linewidth]{macd.png}
+			\caption{Calculation of MACD}
+			\label{fig:macd}
+		\end{figure}
 		In der Fachsprache ist ein Indikator ein Anzeichen für eine bestimmte Entwicklung oder einen eingetretenen Zustand. (\cite{OxfordLanguageIndicator}) Bei Indikatoren im Cryptotrading geht es auch um Zustände beziehungsweise die Entwicklung dieser, zum Beispiel das Erkennen eines Trends, Berechnen von möglichen Kauf- und Verkaufssignalen oder zur Risikobestimmung. Auch die Interpretation von Indikatoren kann auf viele verschiedene Arten erfolgen, oft nutzt man zum Beispiel Schwellenwerte, um die Ergebnisse von Indikatoren in bestimmte Trends oder Signale zu unterteilen.\\
-		Ein weit verbreiteter Indikator ist der\glqq MACD.\grqq{}, kurz für\glqq Moving Average Convergence Divergence\grqq{} (\cite{investopediaMACD}), zu deutsch\glqq Indikator für das Zusammen- und Auseinanderlaufen des gleitenden Durchschnitts.\grqq{} (\cite{wikipediaMACDDeutsch})\\ Die Berechnung des MACD besteht ausschließlich aus einer Kombination von sogenannten \glqq EMAs\grqq{}, kurz für \glqq eponential weighted moving average\grqq{}. Dieses wird berechnet, indem man zuerst eine Zeitperiode und einen Wichtungsfaktor, meist zwei für eine quadratische Wichtung, wählt. Dividiert man den Wichtungsfaktor durch die Zeitperiode um eins erhöht, so erhält man den Glättungsfaktor für das EMA. [Bild von Formel] Um die eigentliche EMA-Linie zu berechnen, wird dann aus den ältesten Werten von der vorher gewählten Zeitperiode der Mittelwert errechnet. Damit sind alle Grundvoraussetzungen erfüllt und jeder weitere Wert ergibt sich aus der EMA-Formel: der aktuelle Cryptowert minus den vorherigen EMA-Wert und das Ergebnis multipliziert mit dem bereits berechneten Glättungsfaktor. Dazu wird schließlich noch der letzte EMA-Wert addiert.\\
+		Ein weit verbreiteter Indikator ist der\glqq MACD.\grqq{}, kurz für\glqq Moving Average Convergence Divergence\grqq{} (\cite{investopediaMACD}), zu deutsch\glqq Indikator für das Zusammen- und Auseinanderlaufen des gleitenden Durchschnitts.\grqq{} (\cite{wikipediaMACDDeutsch})\\ Die Berechnung des MACD besteht ausschließlich aus einer Kombination von sogenannten \glqq EMAs\grqq{}, kurz für \glqq eponential weighted moving average\grqq{}. Dieses wird berechnet, indem man zuerst eine Zeitperiode und einen Wichtungsfaktor, meist zwei für eine quadratische Wichtung, wählt. Dividiert man den Wichtungsfaktor durch die Zeitperiode um eins erhöht, so erhält man den Glättungsfaktor für das EMA. Um die eigentliche EMA-Linie zu berechnen, wird dann aus den ältesten Werten von der vorher gewählten Zeitperiode der Mittelwert errechnet. Damit sind alle Grundvoraussetzungen erfüllt und jeder weitere Wert ergibt sich aus der EMA-Formel: der aktuelle Cryptowert minus den vorherigen EMA-Wert und das Ergebnis multipliziert mit dem bereits berechneten Glättungsfaktor. Dazu wird schließlich noch der letzte EMA-Wert addiert.\\
 		Um mithilfe dieser gewichteten Rundungsfunktionen die wesentlichen Kaufsignale herauszuarbeiten, bedient man sich nun des MACD. Dafür werden zuerst der so genannte\glqq slow EMA\grqq{} und der\glqq fast EMA\grqq{} berechnet. Sie unterscheiden sich nur in ihrer Periodendauer, allerdings gibt es verschiedene populäre Konfigurationen des MACDs mit unterschiedlichen EMA-Perioden. Häufig wird für das schnelle EMA eine Zeit von zwölf Tagen und für das langsame eine von sechsundzwanzig verwendet.\\
-		Die Differenz beider EMAs bildet die MACD-Line [Abbildung].\\
+		Die Differenz beider EMAs bildet die MACD-Line\\
 		Mit einem EMA von meist neun Tagen wird aus der MACD-Line die Signal-Line berechnet. Durch die erneute Rundung scheint die Signal-Line wesentlich träger als die MACD-Line.\\
 		Zu guter Letzt ergibt sich aus der Differenz von MACD-Line und Signal-Line das Histogramm.
 	\subsubsection{Auswertung des MACDs}
 		Wann immer MACD-Line und Histogramm einander schneiden, schneidet das Histogramm die X-Achse. Je nach dem ob es in den positiven oder den negativen Bereich schneidet, ergeben sich Kauf- und Verkaufssignal. Die simpelste Methode der Auswertung ist es, wann immer das Histogramm positiv ist, eine Position zu kaufen, und wann immer es in den negativen Bereich geht wieder zu verkaufen.
-
-
-\subsection{Was taugen die praktischen Ergebnisse}
+		\begin{figure}
+			\includegraphics[width=\linewidth]{macd_resulte_btc.png}
+			\caption{Gewinne bei Anwendung des MACD}
+			\label{fig:macd2}
+		\end{figure}
+		Beim Backtesting lässt sich gut erkennen, dass der MACD im Beispiel des Bitcoin in Teilen von 2016/17 einen guten Gewinn von 50 Prozent erwirtschaftet.
+	
 \section{Resümee}
 	Wozu einen Algorithmus mit nur einem Indikator? Ist das etwas Neues?\\
 	Zwar ist die Anwendung des MACD keine besondere Sache, jedoch birgt ein solches Programm mehr Potential in sich, als man von vornherein vermuten mag. Durch seine modulare Programmierung lassen sich ohne Aufwand bestimmte Teile austauschen. Das betrifft zum einen die Indikatoren. Die Datenverarbeitung und Eingabe sowie die Indikatorfunktion sind bereits programmiert. Um einen weiteren Indikator hinzuzufügen, ist es also nur noch nötig, die Formeln in Scriptform umzusetzen. Auch die Auswertung nimmt selbst definierte Auswertungsfunktionen an, wobei die simple Deutung des MACD, die dort aktuell verwendet wird, nur ein Platzhalter ist. Es lassen sich Funktionen übergeben, die beispielsweise mehrere Indikatoren unterschiedlich und dynamisch wichten.\\
@@ -84,11 +96,10 @@
 \newpage
 \section{Selbstständigkeitserklärung}
 	Hiermit erkläre ich, dass ich die vorliegende Seminararbeit selbstständig und ohne fremde Hilfe verfasst und keine anderen Hilfsmittel als die angegebenen verwendet habe.
-	Insbesondere versichere ich, dass ich alle wörtlichen und sinngemäßen Übernahmen aus anderen Werken – dazu gehören auch Internetquellen – als solche kenntlich gemacht habe.
-	
-	\_\_\_\_\_\_\_\_\_
-	(Ort, Datum)
-	\_\_\_\_\_\_\_\_\_
+	Insbesondere versichere ich, dass ich alle wörtlichen und sinngemäßen Übernahmen aus anderen Werken – dazu gehören auch Internetquellen – als solche kenntlich gemacht habe.\\\\
+	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\
+	(Ort, Datum)\\\\
+	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\
 	(Unterschrift) 
 
 \end{document}
