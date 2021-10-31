@@ -1,0 +1,228 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Bendel2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ecb4fb632a714ed025e3d702f6f6c10d}{%
+           family={Bendel},
+           familyi={B\bibinitperiod},
+           given={Prof.\bibnamedelimi Dr.\bibnamedelimi Oliver},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{ecb4fb632a714ed025e3d702f6f6c10d}
+      \strng{fullhash}{ecb4fb632a714ed025e3d702f6f6c10d}
+      \strng{bibnamehash}{ecb4fb632a714ed025e3d702f6f6c10d}
+      \strng{authorbibnamehash}{ecb4fb632a714ed025e3d702f6f6c10d}
+      \strng{authornamehash}{ecb4fb632a714ed025e3d702f6f6c10d}
+      \strng{authorfullhash}{ecb4fb632a714ed025e3d702f6f6c10d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SpringerGabler}
+      \field{note}{abgerufen am 30.09.2021}
+      \field{title}{Kryptowährung}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/kryptowaehrung-54160/version-384589
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/kryptowaehrung-54160/version-384589
+      \endverb
+    \endentry
+    \entry{Bxalber}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=dd449c0b2da0702c2ca32b296cdbfa2b}{%
+           family={Bxalber},
+           familyi={B\bibinitperiod},
+           given={Sandstorm\bibnamedelimb de\bibnamedelimb und\bibnamedelima weitere},
+           giveni={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim w\bibinitperiod},
+           suffix={Tigi98},
+           suffixi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd449c0b2da0702c2ca32b296cdbfa2b}
+      \strng{fullhash}{dd449c0b2da0702c2ca32b296cdbfa2b}
+      \strng{bibnamehash}{dd449c0b2da0702c2ca32b296cdbfa2b}
+      \strng{authorbibnamehash}{dd449c0b2da0702c2ca32b296cdbfa2b}
+      \strng{authornamehash}{dd449c0b2da0702c2ca32b296cdbfa2b}
+      \strng{authorfullhash}{dd449c0b2da0702c2ca32b296cdbfa2b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{abgerufen am 30.10.2021}
+      \field{title}{Liste von Kryptowährungen}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/Liste_von_Kryptowährungen
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Liste_von_Kryptow%C3%A4hrungen
+      \endverb
+    \endentry
+    \entry{ChristophRottwilm}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=54607d410417e003fae5e818bc5ae3a9}{%
+           family={Christoph\bibnamedelima Rottwilm},
+           familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Kai\bibnamedelima Lange},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={und},
+           prefixi={u\bibinitperiod}}}%
+      }
+      \strng{namehash}{54607d410417e003fae5e818bc5ae3a9}
+      \strng{fullhash}{54607d410417e003fae5e818bc5ae3a9}
+      \strng{bibnamehash}{54607d410417e003fae5e818bc5ae3a9}
+      \strng{authorbibnamehash}{54607d410417e003fae5e818bc5ae3a9}
+      \strng{authornamehash}{54607d410417e003fae5e818bc5ae3a9}
+      \strng{authorfullhash}{54607d410417e003fae5e818bc5ae3a9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{abgerufen am 06.04.2021}
+      \field{title}{manager magazin}
+      \verb{urlraw}
+      \verb https://www.manager-magazin.de/finanzen/artikel/erfolg-reichtum-glueck-denken-wie-warren-buffett-a-1057702.html
+      \endverb
+      \verb{url}
+      \verb https://www.manager-magazin.de/finanzen/artikel/erfolg-reichtum-glueck-denken-wie-warren-buffett-a-1057702.html
+      \endverb
+    \endentry
+    \entry{HistoryOfBitcoin}{misc}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{note}{abgerufen am 30.09.2021}
+      \field{title}{Die Geschichte von Bitcoin}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.plus500.de/Instruments/BTCUSD/The-History-of-Bitcoin~3
+      \endverb
+      \verb{url}
+      \verb https://www.plus500.de/Instruments/BTCUSD/The-History-of-Bitcoin~3
+      \endverb
+    \endentry
+    \entry{Ouroboros}{misc}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{note}{abgerufen am 30.09.2021}
+      \field{title}{Ouroboros}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://cardano.org/ouroboros/
+      \endverb
+      \verb{url}
+      \verb https://cardano.org/ouroboros/
+      \endverb
+    \endentry
+    \entry{TheCardanoCrowd}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{note}{abgerufen am 29.10.2021}
+      \field{title}{The Cardano Crowd.}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://cardanocrowd.com/
+      \endverb
+      \verb{url}
+      \verb https://cardanocrowd.com/
+      \endverb
+    \endentry
+    \entry{TommyKammerer2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4151026d2694566f0cedc53b6df25b4a}{%
+           family={Tommy\bibnamedelima Kammerer},
+           familyi={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Cardano\bibnamedelimb Foundation\bibnamedelima Team},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4151026d2694566f0cedc53b6df25b4a}
+      \strng{fullhash}{4151026d2694566f0cedc53b6df25b4a}
+      \strng{bibnamehash}{4151026d2694566f0cedc53b6df25b4a}
+      \strng{authorbibnamehash}{4151026d2694566f0cedc53b6df25b4a}
+      \strng{authornamehash}{4151026d2694566f0cedc53b6df25b4a}
+      \strng{authorfullhash}{4151026d2694566f0cedc53b6df25b4a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{forum.cardano.org}
+      \field{note}{abgerufen am 30.09.2021}
+      \field{title}{Was ist staking und wie funktioniert es unter Cardano?}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://forum.cardano.org/t/was-ist-staking-und-wie-funktioniert-es-unter-cardano/27622
+      \endverb
+      \verb{url}
+      \verb https://forum.cardano.org/t/was-ist-staking-und-wie-funktioniert-es-unter-cardano/27622
+      \endverb
+    \endentry
+    \entry{WhatIsBlockchainTechnologie}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{note}{abgerufen am 01.10.2021}
+      \field{title}{Was ist Blockchain-Technologie?}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ibm.com/de-de/topics/what-is-blockchain
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/de-de/topics/what-is-blockchain
+      \endverb
+    \endentry
+    \entry{WhatIsCardano}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{note}{abgerufen am 30.10.2021}
+      \field{title}{Was ist Cardano?}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.cryptolist.de/cardano
+      \endverb
+      \verb{url}
+      \verb https://www.cryptolist.de/cardano
+      \endverb
+    \endentry
+    \entry{WhatIsATrend}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{note}{abgerufen am 30.09.2021}
+      \field{title}{Was ist ein Trend?}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.att-trading.com/trading-wiki/was-ist-ein-trend/
+      \endverb
+      \verb{url}
+      \verb https://www.att-trading.com/trading-wiki/was-ist-ein-trend/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
