@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.20)  31 OCT 2021 05:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.20)  31 OCT 2021 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -294,84 +294,90 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 25.
+(Font)              <5> on input line 28.
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 \OT1/cmr/m/n/10 https://www.manager-magazin.de/finanzen/artikel/erfolg-reichtum
 -glueck-denken-wie-
  []
 
-[3]
+[3] [4]
 Overfull \hbox (5.08784pt too wide) in paragraph at lines 34--38
 \OT1/cmr/m/n/12 https://de.wikipedia.org/wiki/Liste[]von[]KryptowBitcoin wur-de
  2009 ge-schaf-
  []
 
-[4]
-Overfull \hbox (36.47754pt too wide) in paragraph at lines 40--41
+[5]
+Overfull \hbox (36.47754pt too wide) in paragraph at lines 40--42
 \OT1/cmr/m/n/12 Jeder kennt Fiatw[]ahrungen, viel-leicht nur nicht un-ter die-s
 em Na-men. Fiatw[]ahrungen
  []
 
 
-Overfull \hbox (11.38889pt too wide) in paragraph at lines 42--50
+Overfull \hbox (1.23206pt too wide) in paragraph at lines 40--42
+\OT1/cmr/m/n/12 tra-li-sier-te von Ban-ken oder Staat kon-trol-lier-te W[]ahrun
+gen. Cryp-tow[]ahrungen
+ []
+
+[6]
+Overfull \hbox (11.38889pt too wide) in paragraph at lines 43--54
 \OT1/cmr/m/n/12 https://www.cryptolist.de/cardano https://www.ibm.com/de-de/top
 ics/what-
  []
 
 
-Overfull \hbox (18.96103pt too wide) in paragraph at lines 42--50
+Overfull \hbox (18.96103pt too wide) in paragraph at lines 43--54
 \OT1/cmr/m/n/12 is-blockchain htt-ps://cardano.org/ouroboros/ https://forum.car
 dano.org/t/was-
  []
 
 
-Overfull \hbox (60.01202pt too wide) in paragraph at lines 42--50
-\OT1/cmr/m/n/12 Diese ba-sie-ren auf dem Proof of Sta-ke Prin-zip. Da-bei u htt
-ps://forum.cardano.org/t/was-
+Overfull \hbox (1.95427pt too wide) in paragraph at lines 43--54
+\OT1/cmr/m/n/12 funktioniert-es-unter-cardano/27622 htt-ps://cardanocrowd.com/ 
+<Block-chain
  []
 
-[5] [6]
-Overfull \hbox (40.6983pt too wide) in paragraph at lines 53--57
+[7] [8]
+Overfull \hbox (40.6983pt too wide) in paragraph at lines 57--60
 \OT1/cmr/m/n/12 https://www.boerse-stuttgart.de/de-de/handel/kryptowaehrungen-h
 andeln/bitcoin-
  []
 
-[7]
-Overfull \hbox (4.0084pt too wide) in paragraph at lines 61--62
+[9] [10]
+Overfull \hbox (4.0084pt too wide) in paragraph at lines 64--65
 \OT1/cmr/m/n/12 https://www.wortbedeutung.info/Indikator/ So-bald man einen Tre
 nd er-kannt
  []
 
-[8] [9] [10] [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+[11] [12] [13] [14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (./plan.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `plan.out' has not changed.
-(rerunfilecheck)             Checksum: 65EE4AB75DAFD10BBB178CE3999717FA;1762.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
+(rerunfilecheck)             Checksum: 58B6CCF7872073379782B397327B4016;1795.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 5965 strings out of 483130
- 91540 string characters out of 5963882
- 361370 words of memory out of 5000000
+ 5970 strings out of 483130
+ 91583 string characters out of 5963882
+ 363370 words of memory out of 5000000
  20856 multiletter control sequences out of 15000+600000
  537806 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,8n,30p,3147b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,8n,30p,3345b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on plan.pdf (12 pages, 111174 bytes).
+Output written on plan.pdf (15 pages, 119758 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 223 compressed objects within 3 object streams
+ 50 named destinations out of 1000 (max. 500000)
  193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,25 +1,25 @@
 \babel@toc {ngerman}{}
 \contentsline {section}{\numberline {1}Einleitung}{3}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Handeln, aber simpel und faul}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Cryptowährungen}{4}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}Entstehung und Nutzen}{4}{subsubsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.2.2}Vorteile von Cryptowährung}{5}{subsubsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.3}Funktionsweise einer Cryptowährung}{5}{subsubsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.3}Trading}{7}{subsection.1.3}%
-\contentsline {subsubsection}{\numberline {1.3.1}Cryptohandel mit Profit}{7}{subsubsection.1.3.1}%
-\contentsline {subsubsection}{\numberline {1.3.2}Trend}{8}{subsubsection.1.3.2}%
-\contentsline {subsubsection}{\numberline {1.3.3}Indikatoren: der MACD}{9}{subsubsection.1.3.3}%
-\contentsline {subsubsection}{\numberline {1.3.4}todo}{9}{subsubsection.1.3.4}%
-\contentsline {section}{\numberline {2}Die Mathematik zum Algorithmus}{9}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Datenbeschaffung}{9}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Testdaten}{9}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Echtzeitdaten}{10}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Datenspeicherung (SQL und Feather)}{10}{subsubsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.2}Datenverarbeitung}{11}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Trend}{11}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Indikatoren}{11}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.3}Beispiel am MACD}{11}{subsubsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.3}Auswertungs-/Bewertungsalgorithmus}{12}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Ergebnisse der Indikatoren verarbeiten}{12}{subsubsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.4}Testen des praktischen Ergebnisses}{12}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Resümee}{12}{section.3}%
+\contentsline {subsection}{\numberline {1.2}Cryptowährungen}{5}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Entstehung und Nutzen / Was ist eine Cryptowährung?}{5}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Vorteile von Cryptowährung}{6}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Funktionsweise einer Cryptowährung}{7}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Trading}{10}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Cryptohandel mit Profit}{10}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Trend}{10}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Indikatoren: der MACD}{11}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}todo}{12}{subsubsection.1.3.4}%
+\contentsline {section}{\numberline {2}Die Mathematik zum Algorithmus}{12}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Datenbeschaffung}{12}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Testdaten}{12}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Echtzeitdaten}{13}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Datenspeicherung (SQL und Feather)}{13}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}Datenverarbeitung}{13}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Trend}{13}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Indikatoren}{14}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Beispiel am MACD}{14}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Auswertungs-/Bewertungsalgorithmus}{15}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Ergebnisse der Indikatoren verarbeiten}{15}{subsubsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.4}Testen des praktischen Ergebnisses}{15}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Resümee}{15}{section.3}%
