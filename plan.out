@@ -1,27 +1,24 @@
-\BOOKMARK [1][-]{section.1}{Vorwort}{}% 1
-\BOOKMARK [1][-]{section.2}{Ziel der Arbeit}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Arbeitsmittel}{section.2}% 3
-\BOOKMARK [1][-]{section.3}{Grundlagen}{}% 4
-\BOOKMARK [2][-]{subsection.3.1}{Cryptow\344hrungen}{section.3}% 5
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Entstehung und Nutzen}{subsection.3.1}% 6
-\BOOKMARK [3][-]{subsubsection.3.1.2}{Vorteile von Cryptow\344hrung}{subsection.3.1}% 7
-\BOOKMARK [3][-]{subsubsection.3.1.3}{Funktionsweise einer Cryptow\344hrung}{subsection.3.1}% 8
-\BOOKMARK [2][-]{subsection.3.2}{Trading}{section.3}% 9
-\BOOKMARK [3][-]{subsubsection.3.2.1}{Cryptohandel mit Profit}{subsection.3.2}% 10
-\BOOKMARK [3][-]{subsubsection.3.2.2}{Trend}{subsection.3.2}% 11
-\BOOKMARK [3][-]{subsubsection.3.2.3}{Indikatoren}{subsection.3.2}% 12
-\BOOKMARK [3][-]{subsubsection.3.2.4}{todo}{subsection.3.2}% 13
-\BOOKMARK [1][-]{section.4}{Praktische Umsetzung}{}% 14
-\BOOKMARK [2][-]{subsection.4.1}{Datenbeschaffung}{section.4}% 15
-\BOOKMARK [3][-]{subsubsection.4.1.1}{Testdaten}{subsection.4.1}% 16
-\BOOKMARK [3][-]{subsubsection.4.1.2}{Echtzeitdaten}{subsection.4.1}% 17
-\BOOKMARK [3][-]{subsubsection.4.1.3}{Datenspeicherung \(SQL und Feather\)}{subsection.4.1}% 18
-\BOOKMARK [2][-]{subsection.4.2}{Datenverarbeitung}{section.4}% 19
-\BOOKMARK [3][-]{subsubsection.4.2.1}{Trend}{subsection.4.2}% 20
-\BOOKMARK [3][-]{subsubsection.4.2.2}{Indikatoren}{subsection.4.2}% 21
-\BOOKMARK [3][-]{subsubsection.4.2.3}{Beispiel am MACD}{subsection.4.2}% 22
-\BOOKMARK [2][-]{subsection.4.3}{Auswertungs-/Bewertungsalgorithmus}{section.4}% 23
-\BOOKMARK [3][-]{subsubsection.4.3.1}{Ergebnisse der Indikatoren verarbeiten}{subsection.4.3}% 24
-\BOOKMARK [3][-]{subsubsection.4.3.2}{Ausgabe \(GUI\)}{subsection.4.3}% 25
-\BOOKMARK [2][-]{subsection.4.4}{Testen des praktischen Ergebnisses}{section.4}% 26
-\BOOKMARK [1][-]{section.5}{Auswertung der Arbeit \(Dieses Kaptiel umbenennen!\)}{}% 27
+\BOOKMARK [1][-]{section.1}{Einleitung}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Handeln, aber simpel und faul}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Cryptow\344hrungen}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Entstehung und Nutzen}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Vorteile von Cryptow\344hrung}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Funktionsweise einer Cryptow\344hrung}{subsection.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.3}{Trading}{section.1}% 7
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Cryptohandel mit Profit}{subsection.1.3}% 8
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Trend}{subsection.1.3}% 9
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Indikatoren: der MACD}{subsection.1.3}% 10
+\BOOKMARK [3][-]{subsubsection.1.3.4}{todo}{subsection.1.3}% 11
+\BOOKMARK [1][-]{section.2}{Die Mathematik zum Algorithmus}{}% 12
+\BOOKMARK [2][-]{subsection.2.1}{Datenbeschaffung}{section.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Testdaten}{subsection.2.1}% 14
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Echtzeitdaten}{subsection.2.1}% 15
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Datenspeicherung \(SQL und Feather\)}{subsection.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.2}{Datenverarbeitung}{section.2}% 17
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Trend}{subsection.2.2}% 18
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Indikatoren}{subsection.2.2}% 19
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Beispiel am MACD}{subsection.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.3}{Auswertungs-/Bewertungsalgorithmus}{section.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Ergebnisse der Indikatoren verarbeiten}{subsection.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.4}{Testen des praktischen Ergebnisses}{section.2}% 23
+\BOOKMARK [1][-]{section.3}{Res\374mee}{}% 24
