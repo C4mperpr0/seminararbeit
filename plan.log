@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.20)  31 OCT 2021 20:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.20)  31 OCT 2021 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -563,51 +563,68 @@ Overfull \hbox (24.34508pt too wide) in paragraph at lines 34--41
  ([[]])
  []
 
-[3] [4] [5]
+[3] [4]
+Overfull \hbox (0.41402pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 wirt-schaf-ten. Bit-coins Bei-spiel sind bis heu-te Tau-sen-de 
+von neu-en W[]ahrungen
+ []
+
+
+Overfull \hbox (2.83342pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 ge-folgt und die Zahl steigt ste-tig wei-ter. So ha-ben un-ter-
+schied-li-che W[]ahrungen
+ []
+
+
+Overfull \hbox (6.61118pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 Shi-ba Inu, dem Fi-nan-zie-ren ge-meinn[]utziger Pro-jek-te, ei
+n-fa-cher []Uberweisungen
+ []
+
+[5]
 Overfull \hbox (36.47754pt too wide) in paragraph at lines 46--48
 \OT1/cmr/m/n/12 Jeder kennt Fiatw[]ahrungen, viel-leicht nur nicht un-ter die-s
 em Na-men. Fiatw[]ahrungen
  []
 
 
-Overfull \hbox (1.23206pt too wide) in paragraph at lines 46--48
-\OT1/cmr/m/n/12 tra-li-sier-te von Ban-ken oder Staat kon-trol-lier-te W[]ahrun
-gen. Cryp-tow[]ahrungen
+Overfull \hbox (21.14157pt too wide) in paragraph at lines 46--48
+\OT1/cmr/m/n/12 zen-tra-li-sier-te, von Ban-ken oder Staat kon-trol-lier-te W[]
+ahrungen. Cryp-tow[]ahrungen
  []
 
-[6] [7] [8] [9]
+[6] [7] [8] [9] [10]
 
-LaTeX Warning: Citation 'WhatIsATrend' on page 10 undefined on input line 59.
+LaTeX Warning: Citation 'WhatIsATrend' on page 11 undefined on input line 60.
 
-[10]
 
 LaTeX Warning: Citation 'OxfordLanguageIndicator' on page 11 undefined on input
- line 61.
+ line 62.
 
 
 LaTeX Warning: Citation 'investopediaMACD' on page 11 undefined on input line 6
-2.
+3.
 
 
 LaTeX Warning: Citation 'wikipediaMACDDeutsch' on page 11 undefined on input li
-ne 62.
+ne 63.
 
-[11] [12] [13]
-
-LaTeX Warning: Empty bibliography on input line 97.
-
-
-Package biblatex Warning: Keyword 'picture' not found on input line 98.
-
+[11] [12] [13] [14]
 
 LaTeX Warning: Empty bibliography on input line 98.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-[14] [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+
+Package biblatex Warning: Keyword 'picture' not found on input line 99.
+
+
+LaTeX Warning: Empty bibliography on input line 99.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+[15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
  (./plan.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `plan.out' has not changed.
 (rerunfilecheck)             Checksum: B4ACED8B727F79C4A38B7DEBE85ABAD7;1787.
 
@@ -622,26 +639,26 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'plan.run.xml'.
 \openout1 = `plan.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 12927 strings out of 483130
- 225854 string characters out of 5963882
- 900122 words of memory out of 5000000
+ 12928 strings out of 483130
+ 225866 string characters out of 5963882
+ 901122 words of memory out of 5000000
  27755 multiletter control sequences out of 15000+600000
  537806 words of font info for 42 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 36i,8n,39p,3345b,2193s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,39p,3442b,2193s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on plan.pdf (15 pages, 118907 bytes).
+Output written on plan.pdf (15 pages, 119899 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 500000)
+ 251 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
  193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
